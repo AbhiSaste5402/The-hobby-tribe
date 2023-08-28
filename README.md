@@ -10,4 +10,4 @@ Integration of Azure AutoML for hyperparameter tuning
 Showcase website creation for real-time predictions
 Explore the code, methodologies, and journey behind this project as we delve into the power of AI in audio analysis.
 
-![image](https://github.com/AbhiSaste5402/The-hobby-tribe/assets/98224796/9ed7fd18-3990-4326-9d42-7985aa33c842)
+[Full project presentation.pptx](https://github.com/AbhiSaste5402/The-hobby-tribe/files/12453720/Full.project.presentation.pptx)
