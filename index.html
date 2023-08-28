@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Audio Classification</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Audio Classification</h1>
+        <form method="POST" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".wav" required>
+            <input type="submit" value="Upload and Predict">
+        </form>
+        <h2>Predicted Label: {{ predicted_label }}</h2>
+    </div>
+</body>
+</html>
